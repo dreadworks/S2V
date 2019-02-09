@@ -10,10 +10,21 @@ The data preparation, vocabulary expansion and evaluation scripts have been adop
 Other code files have been modified and re-structured with changes specific to our model.
 
 ### Contents
+* [Installation](#installation)
 * [Model configuration files](#model-configuration-files)
 * [Pretrained Models](#pretrained-models)
 * [Training a Model](#training-a-model)
 * [Evaluating a Model](#evaluating-a-model)
+
+## Installation
+
+Python 2.7 is required.
+
+```
+pip install -r requirements.txt
+pip install -e .
+```
+
 
 ## Model configuration files
 
